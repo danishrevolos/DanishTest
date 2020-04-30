@@ -35,7 +35,7 @@
     "es6-shim": "^0.35.5",
     "hoek": "^5.0.4",
     "ie9-oninput-polyfill": "^1.1.1",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "mydatepicker": "^2.6.6",
     "ng-fullstory": "^7.0.0-beta.1",
     "ng2-datepicker": "^3.1.1",
