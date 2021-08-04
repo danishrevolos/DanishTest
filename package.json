@@ -42,7 +42,7 @@
     "ng2-tooltip-directive": "^2.1.5",
     "rxjs": "^6.0.0",
     "setprototypeof": "^1.1.1",
-    "tar": "^4.4.8",
+    "tar": "^4.4.15",
     "text-security": "^1.2.0",
     "uglify-es": "3.2.2",
     "uglifyjs-webpack-plugin": "1.1.5",
